@@ -211,7 +211,7 @@ body {
     flex-shrink: 0;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1439px) {
     .center {
         padding-left: calc(50% - 376px);
         padding-right: calc(50% - 376px);
